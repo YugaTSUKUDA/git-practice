@@ -1,8 +1,9 @@
 Introduction
-In this paper, we propose novel method.
+In this paper, we propose novel rendering method.
 
 Related Work
 wwwwwwwwwwwwwwww
+Suzuki et al. presentied similar study.
 
 Design
 aaaaaaaaaaaaaa
